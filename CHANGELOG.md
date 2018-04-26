@@ -1,3 +1,18 @@
+### 3.3.0
+- Code refactor to work in a es5 environment!
+
+### 3.2.0
+- website that don't have Open Graph images will now return an array of all of the images on the site
+
+### 3.1.5
+- Updating lodash to fix vulnerable
+
+### 3.1.4
+- Returns more info on the error occurred when using promises
+
+### 3.1.3
+- Catch iconv exception to prevent unexpected charset 
+
 ### 3.1.2
 - Checking for Open Graph price and availability info
 
